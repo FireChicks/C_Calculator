@@ -1,0 +1,7 @@
+﻿  소스.c
+C:\Users\ritas\source\repos\HomeWorkFinal\HomeWorkFinal\소스.c(339,9): warning C4033: 'acc'은(는) 값을 반환해야 합니다.
+C:\Users\ritas\source\repos\HomeWorkFinal\HomeWorkFinal\소스.c(349,9): warning C4033: 'parseInt'은(는) 값을 반환해야 합니다.
+C:\Users\ritas\source\repos\HomeWorkFinal\HomeWorkFinal\소스.c(396,36): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\ritas\source\repos\HomeWorkFinal\HomeWorkFinal\소스.c(353): warning C4715: 'parseInt': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\ritas\source\repos\HomeWorkFinal\HomeWorkFinal\소스.c(341): warning C4715: 'acc': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  HomeWorkFinal.vcxproj -> C:\Users\ritas\source\repos\HomeWorkFinal\x64\Debug\HomeWorkFinal.exe
